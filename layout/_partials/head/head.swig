@@ -59,3 +59,5 @@
 {%- endif %}
 
 {{ next_config() }}
+
+<script src="https://cdn.bootcss.com/echarts/4.7.0/echarts.js"></script>
